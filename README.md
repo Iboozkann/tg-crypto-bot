@@ -7,3 +7,7 @@
 ```bash
 git clone https://github.com/Iboozkann/tg-crypto-bot.git
 
+3. Запустите бота:
+
+bash
+go run main.go
