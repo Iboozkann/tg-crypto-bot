@@ -3,11 +3,11 @@
 ## Как запустить
 
 1. Создайте бота через [@BotFather](https://t.me/BotFather)
-2. Клонируйте репозиторий:
+2. Клонируйте репозиторий: 
 ```bash
 git clone https://github.com/Iboozkann/tg-crypto-bot.git
-
-3. Запустите бота:
-
-bash
+```
+3. Запуск бота
+ ```bash
 go run main.go
+```
