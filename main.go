@@ -20,7 +20,7 @@ var cryptoList = map[string]string{
 }
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("7509451523:AAGul5K56c_HIxxNQyJIoJwMWPlwm_f_tn0") // Замените на реальный токен!
+	bot, err := tgbotapi.NewBotAPI("Ваш токен") // Замените на реальный токен!
 	if err != nil {
 		log.Panic(err)
 	}
