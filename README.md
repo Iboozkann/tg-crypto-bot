@@ -1,4 +1,4 @@
-﻿# Telegram Crypto Bot\n\nБот для отслеживания курса криптовалют через CoinGecko API
+﻿# Telegram Crypto Bot для отслеживания курса криптовалют через CoinGecko API
 
 ## Как запустить
 
